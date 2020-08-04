@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@vkontakte/vk-miniapps-deploy": "0.0.19",
     "cross-env": "^5.2.1",
     "react-hot-loader": "^4.12.20",
     "react-scripts": "^2.1.8"
